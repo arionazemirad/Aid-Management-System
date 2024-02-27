@@ -1,22 +1,4 @@
-/*
-Name: Ario Nazemirad
-Email: anazemirad@myseneca.ca
-ID: 144647299
-Date: Dec 3
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-*/
-/***********************************************************************
-// Final project Milestone 56
-//
-// File: main56.cpp
-// Version 1.0
-// Author  Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name                 Date            Reason
-***********************************************************************/
+//Ario Nazemirad
 #include <iostream>
 #include <fstream>
 #include "AidMan.h"
